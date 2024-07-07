@@ -14,4 +14,21 @@ ul {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 *{margin: 0%; padding: 0%;}
+#img1 {
+    height: 200px;
+    width: 565px;
+    margin-left: 25%;
+    padding-bottom: 30%;
+    margin: 10%;
+    padding: 4px;
+}
 
+#para {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10%;
+    padding-right: 4px;
+
+}
+#img3 {
+    margin-left: 15%;
+}
